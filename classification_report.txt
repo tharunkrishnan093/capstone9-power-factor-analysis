@@ -1,0 +1,13 @@
+Rows before deduplication: 6003
+Rows after deduplication: 6000
+Held-out accuracy: 0.9383
+
+              precision    recall  f1-score   support
+
+        Good       0.97      0.95      0.96       447
+         Low       0.97      0.93      0.95       419
+    Moderate       0.86      0.93      0.89       334
+
+    accuracy                           0.94      1200
+   macro avg       0.93      0.94      0.94      1200
+weighted avg       0.94      0.94      0.94      1200
